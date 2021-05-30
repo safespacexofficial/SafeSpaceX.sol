@@ -1,1 +1,2 @@
 # SafeSpaceX.sol
+SafeSpaceX is a community driven, fair launched DeFi Token. Three simple functions occur during each trade: Reflection, LP Acquisition, and Burn. We utilized the DxSale protocol to foster trust in the community by auto-locking liquidity for 2 years. Simple tokenomics and elegant design and production of token information has catered to the overall success of the project. 100% community owned and driven - no rug is possible. #SafeSpaceX join us on our journey safely to the Mars!
